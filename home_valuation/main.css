@@ -202,7 +202,6 @@ li.paddingLeft3{
       .iconsRow i{
           font-size:80px;
           color:white;
-          padding-left: 40%;
       }
 
     }
@@ -211,7 +210,6 @@ li.paddingLeft3{
       .iconsRow i {
           font-size: 80px;
           color: white;
-          padding-left: 34%;
       }
     }
 
@@ -222,7 +220,6 @@ li.paddingLeft3{
     .iconsRow p{
         font-size:18px;
         color:white;
-        text-align: center;
         font-family: 'Proxima Nova',sans-serif;
     }
 
