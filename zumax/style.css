@@ -281,7 +281,7 @@ p {
 ---------------------------------------------------------------------------------------*/
 
 #home-area {
-    background-image: url(../images/banner-1.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/banner-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 100px 0 60px
@@ -375,7 +375,7 @@ p {
 ---------------------------------------------------------------------------------------*/
 
 #feature-area {
-    background-image: url(../images/bg-2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/bg-2.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -420,7 +420,7 @@ p {
 }
 
 .about-bg {
-    background-image: url(../images/circle-1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/circle-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -431,7 +431,7 @@ p {
 }
 
 .about-bg.two {
-    background-image: url(../images/shape-3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/shape-3.png);
 }
 
 .about-cont h5 {
@@ -522,7 +522,7 @@ p {
     height: 80%;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(../images/circle-3.png)
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/circle-3.png)
 }
 
 .video-box {
@@ -530,7 +530,7 @@ p {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    background-image: url(../images/circle-1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/circle-1.png);
     margin-left: -100px;
     margin-top: 70px;
     -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
@@ -781,7 +781,7 @@ p {
 
 #testimonial-area {
     padding: 50px 0 20px;
-    background-image: url(../images/shape-3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/shape-3.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right top
@@ -836,7 +836,7 @@ p {
 
 #faq-area {
     padding: 100px 0 50px;
-    background-image: url(../images/shape-2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/shape-2.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -925,7 +925,7 @@ p {
 
 #contact-area {
     padding: 60px 0 120px;
-    background-image: url(../images/shape-1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/webbuilderpro/lpp_public_assets@master/zumax/images/shape-1.png);
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
