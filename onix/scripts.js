@@ -162,14 +162,14 @@ jQuery(function ($) {
 
 
     // 7. magnify popup video
-    $('.video').magnificPopup({
+    $('.popup-video').magnificPopup({
         disableOn: 700,
         type: 'iframe',
         mainClass: 'mfp-fade',
         removalDelay: 160,
         preloader: false,
-
-        fixedContentPos: false
+        fixedContentPos: false,
+        disableOn: 300
     });
 
     // 8. back to top
