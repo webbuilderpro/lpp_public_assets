@@ -1632,7 +1632,7 @@ SECTION MARGIN
     height: 120%;
     top: 0;
     transform: skewY(-5deg);
-    background: #000 url(../onix/img/feature-bg.jpg)no-repeat center top / cover;
+    /* background: #000 url(../onix/img/feature-bg.jpg)no-repeat center top / cover; */
 }
 
 .new-features-two h3, .new-features-two h5{
