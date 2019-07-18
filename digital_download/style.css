@@ -1339,6 +1339,7 @@ ul#nav li ul a,
     padding: 13px 20px;
     text-align: center;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .home-button a:hover,
